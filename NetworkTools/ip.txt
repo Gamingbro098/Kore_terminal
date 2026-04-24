@@ -1,0 +1,434 @@
+IP                   : 49.43.114.43
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Kanpur, India, Asia
+GeoLocation(lat, lon): 26.449923, 80.3318736
+Currency             : Indian Rupee
+
+IP                   : 49.43.114.43
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Kanpur, India, Asia
+GeoLocation(lat, lon): 26.449923, 80.3318736
+Currency             : Indian Rupee
+
+IP                   : 173.252.70.16
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+Version              : 
+Browser              : Unknown Browser
+Location             : Menlo Park, United States, North America
+GeoLocation(lat, lon): 37.4529598, -122.1817252
+Currency             : US Dollar
+
+IP                   : 42.107.214.173
+IP Type              : IPv4
+User OS              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21F90 Instagram 422.1.0.44.67 (iPhone14,7; iOS 17_5_1; en_GB; en-GB; scale=3.00; 1170x2532; IABMV/1; 918355888) NW/3 Safari/604.1
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Kanpur, India, Asia
+GeoLocation(lat, lon): 26.449923, 80.3318736
+Currency             : Indian Rupee
+
+IP                   : 42.107.214.248
+IP Type              : IPv4
+User OS              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21F90 Instagram 422.1.0.44.67 (iPhone14,7; iOS 17_5_1; en_GB; en-GB; scale=3.00; 1170x2532; IABMV/1; 918355888) Safari/604.1
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Kanpur, India, Asia
+GeoLocation(lat, lon): 26.449923, 80.3318736
+Currency             : Indian Rupee
+
+IP                   : 42.107.214.248
+IP Type              : IPv4
+User OS              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21F90 Instagram 422.1.0.44.67 (iPhone14,7; iOS 17_5_1; en_GB; en-GB; scale=3.00; 1170x2532; IABMV/1; 918355888) Safari/604.1
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Kanpur, India, Asia
+GeoLocation(lat, lon): 26.449923, 80.3318736
+Currency             : Indian Rupee
+IP                   : 42.107.214.248
+IP Type              : IPv4
+User OS              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21F90 Instagram 422.1.0.44.67 (iPhone14,7; iOS 17_5_1; en_GB; en-GB; scale=3.00; 1170x2532; IABMV/1; 918355888) Safari/604.1
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Kanpur, India, Asia
+GeoLocation(lat, lon): 26.449923, 80.3318736
+Currency             : Indian Rupee
+
+IP                   : 42.107.214.248
+IP Type              : IPv4
+User OS              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21F90 Instagram 422.1.0.44.67 (iPhone14,7; iOS 17_5_1; en_GB; en-GB; scale=3.00; 1170x2532; IABMV/1; 918355888) Safari/604.1
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Kanpur, India, Asia
+GeoLocation(lat, lon): 26.449923, 80.3318736
+Currency             : Indian Rupee
+IP                   : 42.107.214.248
+IP Type              : IPv4
+User OS              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21F90 Instagram 422.1.0.44.67 (iPhone14,7; iOS 17_5_1; en_GB; en-GB; scale=3.00; 1170x2532; IABMV/1; 918355888) Safari/604.1
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Kanpur, India, Asia
+GeoLocation(lat, lon): 26.449923, 80.3318736
+Currency             : Indian Rupee
+IP                   : 42.107.214.248
+IP Type              : IPv4
+User OS              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21F90 Instagram 422.1.0.44.67 (iPhone14,7; iOS 17_5_1; en_GB; en-GB; scale=3.00; 1170x2532; IABMV/1; 918355888) Safari/604.1
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Kanpur, India, Asia
+GeoLocation(lat, lon): 26.449923, 80.3318736
+Currency             : Indian Rupee
+
+IP                   : 42.107.214.248
+IP Type              : IPv4
+User OS              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21F90 Instagram 422.1.0.44.67 (iPhone14,7; iOS 17_5_1; en_GB; en-GB; scale=3.00; 1170x2532; IABMV/1; 918355888) Safari/604.1
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Kanpur, India, Asia
+GeoLocation(lat, lon): 26.449923, 80.3318736
+Currency             : Indian Rupee
+IP                   : 42.107.214.248
+IP Type              : IPv4
+User OS              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21F90 Instagram 422.1.0.44.67 (iPhone14,7; iOS 17_5_1; en_GB; en-GB; scale=3.00; 1170x2532; IABMV/1; 918355888) Safari/604.1
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Kanpur, India, Asia
+GeoLocation(lat, lon): 26.449923, 80.3318736
+Currency             : Indian Rupee
+IP                   : 42.107.214.248
+IP Type              : IPv4
+User OS              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21F90 Instagram 422.1.0.44.67 (iPhone14,7; iOS 17_5_1; en_GB; en-GB; scale=3.00; 1170x2532; IABMV/1; 918355888) Safari/604.1
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Kanpur, India, Asia
+GeoLocation(lat, lon): 26.449923, 80.3318736
+Currency             : Indian Rupee
+
+IP                   : 42.107.214.248
+IP Type              : IPv4
+User OS              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21F90 Instagram 422.1.0.44.67 (iPhone14,7; iOS 17_5_1; en_GB; en-GB; scale=3.00; 1170x2532; IABMV/1; 918355888) Safari/604.1
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Kanpur, India, Asia
+GeoLocation(lat, lon): 26.449923, 80.3318736
+Currency             : Indian Rupee
+IP                   : 42.107.214.248
+IP Type              : IPv4
+User OS              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21F90 Instagram 422.1.0.44.67 (iPhone14,7; iOS 17_5_1; en_GB; en-GB; scale=3.00; 1170x2532; IABMV/1; 918355888) Safari/604.1
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Kanpur, India, Asia
+GeoLocation(lat, lon): 26.449923, 80.3318736
+Currency             : Indian Rupee
+IP                   : 42.107.214.248
+IP Type              : IPv4
+User OS              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21F90 Instagram 422.1.0.44.67 (iPhone14,7; iOS 17_5_1; en_GB; en-GB; scale=3.00; 1170x2532; IABMV/1; 918355888) Safari/604.1
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Kanpur, India, Asia
+GeoLocation(lat, lon): 26.449923, 80.3318736
+Currency             : Indian Rupee
+
+IP                   : 42.107.214.248
+IP Type              : IPv4
+User OS              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21F90 Instagram 422.1.0.44.67 (iPhone14,7; iOS 17_5_1; en_GB; en-GB; scale=3.00; 1170x2532; IABMV/1; 918355888) Safari/604.1
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Kanpur, India, Asia
+GeoLocation(lat, lon): 26.449923, 80.3318736
+Currency             : Indian Rupee
+IP                   : 42.107.214.248
+IP Type              : IPv4
+User OS              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21F90 Instagram 422.1.0.44.67 (iPhone14,7; iOS 17_5_1; en_GB; en-GB; scale=3.00; 1170x2532; IABMV/1; 918355888) Safari/604.1
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Kanpur, India, Asia
+GeoLocation(lat, lon): 26.449923, 80.3318736
+Currency             : Indian Rupee
+IP                   : 42.107.214.248
+IP Type              : IPv4
+User OS              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21F90 Instagram 422.1.0.44.67 (iPhone14,7; iOS 17_5_1; en_GB; en-GB; scale=3.00; 1170x2532; IABMV/1; 918355888) Safari/604.1
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Kanpur, India, Asia
+GeoLocation(lat, lon): 26.449923, 80.3318736
+Currency             : Indian Rupee
+
+IP                   : 42.107.214.144
+IP Type              : IPv4
+User OS              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21F90 Instagram 422.1.0.44.67 (iPhone14,7; iOS 17_5_1; en_GB; en-GB; scale=3.00; 1170x2532; IABMV/1; 918355888) Safari/604.1
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Kanpur, India, Asia
+GeoLocation(lat, lon): 26.449923, 80.3318736
+Currency             : Indian Rupee
+IP                   : 42.107.214.144
+IP Type              : IPv4
+User OS              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21F90 Instagram 422.1.0.44.67 (iPhone14,7; iOS 17_5_1; en_GB; en-GB; scale=3.00; 1170x2532; IABMV/1; 918355888) Safari/604.1
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Kanpur, India, Asia
+GeoLocation(lat, lon): 26.449923, 80.3318736
+Currency             : Indian Rupee
+IP                   : 42.107.214.144
+IP Type              : IPv4
+User OS              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21F90 Instagram 422.1.0.44.67 (iPhone14,7; iOS 17_5_1; en_GB; en-GB; scale=3.00; 1170x2532; IABMV/1; 918355888) Safari/604.1
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Kanpur, India, Asia
+GeoLocation(lat, lon): 26.449923, 80.3318736
+Currency             : Indian Rupee
+
+IP                   : 42.107.214.144
+IP Type              : IPv4
+User OS              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21F90 Instagram 422.1.0.44.67 (iPhone14,7; iOS 17_5_1; en_GB; en-GB; scale=3.00; 1170x2532; IABMV/1; 918355888) Safari/604.1
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Kanpur, India, Asia
+GeoLocation(lat, lon): 26.449923, 80.3318736
+Currency             : Indian Rupee
+IP                   : 42.107.214.144
+IP Type              : IPv4
+User OS              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21F90 Instagram 422.1.0.44.67 (iPhone14,7; iOS 17_5_1; en_GB; en-GB; scale=3.00; 1170x2532; IABMV/1; 918355888) Safari/604.1
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Kanpur, India, Asia
+GeoLocation(lat, lon): 26.449923, 80.3318736
+Currency             : Indian Rupee
+IP                   : 42.107.214.144
+IP Type              : IPv4
+User OS              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21F90 Instagram 422.1.0.44.67 (iPhone14,7; iOS 17_5_1; en_GB; en-GB; scale=3.00; 1170x2532; IABMV/1; 918355888) Safari/604.1
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Kanpur, India, Asia
+GeoLocation(lat, lon): 26.449923, 80.3318736
+Currency             : Indian Rupee
+
+IP                   : 42.107.214.144
+IP Type              : IPv4
+User OS              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21F90 Instagram 422.1.0.44.67 (iPhone14,7; iOS 17_5_1; en_GB; en-GB; scale=3.00; 1170x2532; IABMV/1; 918355888) NW/1 Safari/604.1
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Kanpur, India, Asia
+GeoLocation(lat, lon): 26.449923, 80.3318736
+Currency             : Indian Rupee
+IP                   : 42.107.214.144
+IP Type              : IPv4
+User OS              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21F90 Instagram 422.1.0.44.67 (iPhone14,7; iOS 17_5_1; en_GB; en-GB; scale=3.00; 1170x2532; IABMV/1; 918355888) NW/1 Safari/604.1
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Kanpur, India, Asia
+GeoLocation(lat, lon): 26.449923, 80.3318736
+Currency             : Indian Rupee
+IP                   : 42.107.214.144
+IP Type              : IPv4
+User OS              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21F90 Instagram 422.1.0.44.67 (iPhone14,7; iOS 17_5_1; en_GB; en-GB; scale=3.00; 1170x2532; IABMV/1; 918355888) NW/1 Safari/604.1
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Kanpur, India, Asia
+GeoLocation(lat, lon): 26.449923, 80.3318736
+Currency             : Indian Rupee
+
+IP                   : 42.107.214.144
+IP Type              : IPv4
+User OS              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21F90 Instagram 422.1.0.44.67 (iPhone14,7; iOS 17_5_1; en_GB; en-GB; scale=3.00; 1170x2532; IABMV/1; 918355888) NW/3 Safari/604.1
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Kanpur, India, Asia
+GeoLocation(lat, lon): 26.449923, 80.3318736
+Currency             : Indian Rupee
+
+IP                   : 42.107.214.144
+IP Type              : IPv4
+User OS              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21F90 Instagram 422.1.0.44.67 (iPhone14,7; iOS 17_5_1; en_GB; en-GB; scale=3.00; 1170x2532; IABMV/1; 918355888) Safari/604.1
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Kanpur, India, Asia
+GeoLocation(lat, lon): 26.449923, 80.3318736
+Currency             : Indian Rupee
+IP                   : 42.107.214.144
+IP Type              : IPv4
+User OS              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21F90 Instagram 422.1.0.44.67 (iPhone14,7; iOS 17_5_1; en_GB; en-GB; scale=3.00; 1170x2532; IABMV/1; 918355888) Safari/604.1
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Kanpur, India, Asia
+GeoLocation(lat, lon): 26.449923, 80.3318736
+Currency             : Indian Rupee
+IP                   : 42.107.214.144
+IP Type              : IPv4
+User OS              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21F90 Instagram 422.1.0.44.67 (iPhone14,7; iOS 17_5_1; en_GB; en-GB; scale=3.00; 1170x2532; IABMV/1; 918355888) Safari/604.1
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Kanpur, India, Asia
+GeoLocation(lat, lon): 26.449923, 80.3318736
+Currency             : Indian Rupee
+
+IP                   : 42.107.214.248
+IP Type              : IPv4
+User OS              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21F90 Instagram 422.1.0.44.67 (iPhone14,7; iOS 17_5_1; en_GB; en-GB; scale=3.00; 1170x2532; IABMV/1; 918355888) Safari/604.1
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Kanpur, India, Asia
+GeoLocation(lat, lon): 26.449923, 80.3318736
+Currency             : Indian Rupee
+IP                   : 42.107.214.248
+IP Type              : IPv4
+User OS              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21F90 Instagram 422.1.0.44.67 (iPhone14,7; iOS 17_5_1; en_GB; en-GB; scale=3.00; 1170x2532; IABMV/1; 918355888) Safari/604.1
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Kanpur, India, Asia
+GeoLocation(lat, lon): 26.449923, 80.3318736
+Currency             : Indian Rupee
+IP                   : 42.107.214.248
+IP Type              : IPv4
+User OS              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21F90 Instagram 422.1.0.44.67 (iPhone14,7; iOS 17_5_1; en_GB; en-GB; scale=3.00; 1170x2532; IABMV/1; 918355888) Safari/604.1
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Kanpur, India, Asia
+GeoLocation(lat, lon): 26.449923, 80.3318736
+Currency             : Indian Rupee
+
+IP                   : 42.107.214.248
+IP Type              : IPv4
+User OS              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21F90 Instagram 422.1.0.44.67 (iPhone14,7; iOS 17_5_1; en_GB; en-GB; scale=3.00; 1170x2532; IABMV/1; 918355888) Safari/604.1
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Kanpur, India, Asia
+GeoLocation(lat, lon): 26.449923, 80.3318736
+Currency             : Indian Rupee
+IP                   : 42.107.214.248
+IP Type              : IPv4
+User OS              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21F90 Instagram 422.1.0.44.67 (iPhone14,7; iOS 17_5_1; en_GB; en-GB; scale=3.00; 1170x2532; IABMV/1; 918355888) Safari/604.1
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Kanpur, India, Asia
+GeoLocation(lat, lon): 26.449923, 80.3318736
+Currency             : Indian Rupee
+
+IP                   : 42.107.214.248
+IP Type              : IPv4
+User OS              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21F90 Instagram 422.1.0.44.67 (iPhone14,7; iOS 17_5_1; en_GB; en-GB; scale=3.00; 1170x2532; IABMV/1; 918355888) Safari/604.1
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Kanpur, India, Asia
+GeoLocation(lat, lon): 26.449923, 80.3318736
+Currency             : Indian Rupee
+
+IP                   : 42.107.214.248
+IP Type              : IPv4
+User OS              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21F90 Instagram 422.1.0.44.67 (iPhone14,7; iOS 17_5_1; en_GB; en-GB; scale=3.00; 1170x2532; IABMV/1; 918355888) Safari/604.1
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Kanpur, India, Asia
+GeoLocation(lat, lon): 26.449923, 80.3318736
+Currency             : Indian Rupee
+IP                   : 42.107.214.248
+IP Type              : IPv4
+User OS              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21F90 Instagram 422.1.0.44.67 (iPhone14,7; iOS 17_5_1; en_GB; en-GB; scale=3.00; 1170x2532; IABMV/1; 918355888) Safari/604.1
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Kanpur, India, Asia
+GeoLocation(lat, lon): 26.449923, 80.3318736
+Currency             : Indian Rupee
+IP                   : 42.107.214.248
+IP Type              : IPv4
+User OS              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21F90 Instagram 422.1.0.44.67 (iPhone14,7; iOS 17_5_1; en_GB; en-GB; scale=3.00; 1170x2532; IABMV/1; 918355888) Safari/604.1
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Kanpur, India, Asia
+GeoLocation(lat, lon): 26.449923, 80.3318736
+Currency             : Indian Rupee
+
+IP                   : 42.107.214.248
+IP Type              : IPv4
+User OS              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21F90 Instagram 422.1.0.44.67 (iPhone14,7; iOS 17_5_1; en_GB; en-GB; scale=3.00; 1170x2532; IABMV/1; 918355888) Safari/604.1
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Kanpur, India, Asia
+GeoLocation(lat, lon): 26.449923, 80.3318736
+Currency             : Indian Rupee
+IP                   : 42.107.214.248
+IP Type              : IPv4
+User OS              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21F90 Instagram 422.1.0.44.67 (iPhone14,7; iOS 17_5_1; en_GB; en-GB; scale=3.00; 1170x2532; IABMV/1; 918355888) Safari/604.1
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Kanpur, India, Asia
+GeoLocation(lat, lon): 26.449923, 80.3318736
+Currency             : Indian Rupee
+IP                   : 42.107.214.248
+IP Type              : IPv4
+User OS              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21F90 Instagram 422.1.0.44.67 (iPhone14,7; iOS 17_5_1; en_GB; en-GB; scale=3.00; 1170x2532; IABMV/1; 918355888) Safari/604.1
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Kanpur, India, Asia
+GeoLocation(lat, lon): 26.449923, 80.3318736
+Currency             : Indian Rupee
+
+IP                   : 49.43.114.4
+IP Type              : IPv4
+User OS              : Android
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Baragaon, India, Asia
+GeoLocation(lat, lon): 25.4252542, 82.81828
+Currency             : Indian Rupee
+
+IP                   : 49.43.114.4
+IP Type              : IPv4
+User OS              : Android
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Baragaon, India, Asia
+GeoLocation(lat, lon): 25.4252542, 82.81828
+Currency             : Indian Rupee
+

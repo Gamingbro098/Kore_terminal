@@ -1,0 +1,201 @@
+IP Address         : 49.43.114.43
+OS Name            : Android 
+OS Version         : 10 
+Platform           : Linux
+CPU Architecture   : armv81 
+CPU Core           : 8 
+GPU Vendor         : ARM 
+GPU Renderer       : Mali-G72 
+Device Vendor      : Not Found
+Device Model       : Not Found
+RAM                : 4GB
+Browser Name       : Chrome 
+Browser Version    : 147.0.0.0 
+Engine             : WebKit 
+Engine Version     : 537.36 
+User Agent         : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+Resolution         : 412x892 
+Language           : en-IN 
+Time Zone          : India Standard Time 
+
+IP Address         : 122.161.172.227
+OS Name            : iOS 
+OS Version         : 18.7 
+Platform           : iPhone
+CPU Architecture   : Not Found 
+CPU Core           : 4 
+GPU Vendor         : Apple Inc. 
+GPU Renderer       : Apple GPU 
+Device Vendor      : Apple
+Device Model       : iPhone
+RAM                : Not FoundGB
+Browser Name       : Mobile Safari 
+Browser Version    : 26.4 
+Engine             : WebKit 
+Engine Version     : 605.1.15 
+User Agent         : Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.4 Mobile/15E148 Safari/604.1
+Resolution         : 414x896 
+Language           : en-IN 
+Time Zone          : India Standard Time 
+
+IP Address         : 31.13.127.75
+OS Name            : Windows 
+OS Version         : 10 
+Platform           : Windows
+CPU Architecture   : amd64 
+CPU Core           : 2 
+GPU Vendor         : Not Found 
+GPU Renderer       : Not Found 
+Device Vendor      : Not Found
+Device Model       : Not Found
+RAM                : 32GB
+Browser Name       : Chrome 
+Browser Version    : 131.0.6780.64 
+Engine             : WebKit 
+Engine Version     : 537.36 
+User Agent         : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6780.64 Safari/537.36
+Resolution         : 2000x2000 
+Language           : en-US 
+Time Zone          : Pacific Daylight Time 
+
+IP Address         : 42.107.214.248
+OS Name            : iOS 
+OS Version         : 17.5.1 
+Platform           : iPhone
+CPU Architecture   : Not Found 
+CPU Core           : 4 
+GPU Vendor         : Apple Inc. 
+GPU Renderer       : Apple GPU 
+Device Vendor      : Apple
+Device Model       : iPhone
+RAM                : Not FoundGB
+Browser Name       : Safari 
+Browser Version    : Not Found 
+Engine             : WebKit 
+Engine Version     : 605.1.15 
+User Agent         : Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21F90 Instagram 422.1.0.44.67 (iPhone14,7; iOS 17_5_1; en_GB; en-GB; scale=3.00; 1170x2532; IABMV/1; 918355888) Safari/604.1
+Resolution         : 390x844 
+Language           : en-IN 
+Time Zone          : India Standard Time 
+
+IP Address         : 31.13.127.75
+OS Name            : Windows 
+OS Version         : 10 
+Platform           : Windows
+CPU Architecture   : amd64 
+CPU Core           : 2 
+GPU Vendor         : Not Found 
+GPU Renderer       : Not Found 
+Device Vendor      : Not Found
+Device Model       : Not Found
+RAM                : 32GB
+Browser Name       : Chrome 
+Browser Version    : 131.0.6780.64 
+Engine             : WebKit 
+Engine Version     : 537.36 
+User Agent         : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6780.64 Safari/537.36
+Resolution         : 2000x2000 
+Language           : en-US 
+Time Zone          : Pacific Daylight Time 
+
+IP Address         : 103.104.181.31
+OS Name            : Android 
+OS Version         : 10 
+Platform           : Linux
+CPU Architecture   : armv81 
+CPU Core           : 8 
+GPU Vendor         : ARM 
+GPU Renderer       : Mali-G72 
+Device Vendor      : Not Found
+Device Model       : K
+RAM                : 4GB
+Browser Name       : Chrome 
+Browser Version    : 147.0.0.0 
+Engine             : Blink 
+Engine Version     : 147.0.0.0 
+User Agent         : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+Resolution         : 412x892 
+Language           : en-IN 
+Time Zone          : +.5 
+
+ClipBoard Content: https://5c7e150583c913.lhr.life
+IP Address         : 49.43.112.31
+OS Name            : Android 
+OS Version         : 10 
+Platform           : Linux
+CPU Architecture   : armv81 
+CPU Core           : 8 
+GPU Vendor         : ARM 
+GPU Renderer       : Mali-G72 
+Device Vendor      : Not Found
+Device Model       : Not Found
+RAM                : 4GB
+Browser Name       : Chrome 
+Browser Version    : 147.0.0.0 
+Engine             : WebKit 
+Engine Version     : 537.36 
+User Agent         : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+Resolution         : 412x892 
+Language           : en-IN 
+Time Zone          : India Standard Time 
+
+IP Address         : 42.107.217.120
+OS Name            : Android 
+OS Version         : 10 
+Platform           : Linux
+CPU Architecture   : armv81 
+CPU Core           : 8 
+GPU Vendor         : ARM 
+GPU Renderer       : Mali-G72 
+Device Vendor      : Not Found
+Device Model       : Not Found
+RAM                : 4GB
+Browser Name       : Chrome 
+Browser Version    : 147.0.0.0 
+Engine             : WebKit 
+Engine Version     : 537.36 
+User Agent         : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+Resolution         : 412x892 
+Language           : en-IN 
+Time Zone          : India Standard Time 
+
+IP Address         : 42.107.217.120
+OS Name            : Android 
+OS Version         : 10 
+Platform           : Linux
+CPU Architecture   : armv81 
+CPU Core           : 8 
+GPU Vendor         : ARM 
+GPU Renderer       : Mali-G72 
+Device Vendor      : Not Found
+Device Model       : Not Found
+RAM                : 4GB
+Browser Name       : Chrome 
+Browser Version    : 147.0.0.0 
+Engine             : WebKit 
+Engine Version     : 537.36 
+User Agent         : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+Resolution         : 412x892 
+Language           : en-IN 
+Time Zone          : India Standard Time 
+
+IP Address         : 42.107.217.120
+OS Name            : Android 
+OS Version         : 10 
+Platform           : Linux
+CPU Architecture   : armv81 
+CPU Core           : 8 
+GPU Vendor         : ARM 
+GPU Renderer       : Mali-G72 
+Device Vendor      : Not Found
+Device Model       : Not Found
+RAM                : 4GB
+Browser Name       : Chrome 
+Browser Version    : 147.0.0.0 
+Engine             : WebKit 
+Engine Version     : 537.36 
+User Agent         : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+Resolution         : 412x892 
+Language           : en-IN 
+Time Zone          : India Standard Time 
+

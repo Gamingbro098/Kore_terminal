@@ -1,0 +1,32 @@
+Latitude           : 26.4463231° 
+Longitude          : 80.3065071° 
+Google Map         : https://www.google.com/maps/@26.4463231,80.3065071 
+Altitude           : 86.4000015258789m 
+Accuracy           : 12.890999794006348 
+Speed              : 0m/s
+Direction          : 0°
+
+Latitude           : 26.44250738358718° 
+Longitude          : 80.284092195196° 
+Google Map         : https://www.google.com/maps/@26.44250738358718,80.284092195196 
+Altitude           : 131.89310791015623m 
+Accuracy           : 12.599882426068985 
+Speed              : 0m/s
+Direction          : 0°
+
+Latitude           : 26.4486505° 
+Longitude          : 80.3074545° 
+Google Map         : https://www.google.com/maps/@26.4486505,80.3074545 
+Altitude           : 82.80000305175781m 
+Accuracy           : 19.695999145507812 
+Speed              : 0.19338707625865936m/s
+Direction          : 53.4347038269043°
+
+Latitude           : 26.4487099° 
+Longitude          : 80.3074152° 
+Google Map         : https://www.google.com/maps/@26.4487099,80.3074152 
+Altitude           : 82.69999694824219m 
+Accuracy           : 23.535999298095703 
+Speed              : 0m/s
+Direction          : 0°
+
