@@ -1,0 +1,67 @@
+body {
+    background-color: #0a0a0a;
+    color: #00ff41;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    text-shadow: 0 0 2px #00ff41;
+}
+
+header {
+    background: #000;
+    padding: 15px;
+    border-bottom: 2px solid #00ff41;
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+#log-container {
+    flex: 1;
+    padding: 20px;
+    overflow-y: auto;
+    background-image: linear-gradient(rgba(0, 255, 65, 0.1) 1px, transparent 1px);
+    background-size: 100% 3px; /* Scanline effect */
+}
+
+.user-input {
+    color: #fff;
+    margin-top: 15px;
+    font-weight: bold;
+}
+
+.system-response {
+    margin-bottom: 5px;
+    white-space: pre-wrap;
+    color: #00ff41;
+}
+
+.input-wrapper {
+    background: #000;
+    padding: 20px;
+    border-top: 2px solid #00ff41;
+    display: flex;
+}
+
+.prompt {
+    margin-right: 15px;
+    color: #ff0000; /* Red prompt for a "Root" feel */
+}
+
+input {
+    background: transparent;
+    border: none;
+    color: #00ff41;
+    font-family: inherit;
+    font-size: 18px;
+    outline: none;
+    flex: 1;
+}
+
+/* Scrollbar Styling */
+#log-container::-webkit-scrollbar { width: 5px; }
+#log-container::-webkit-scrollbar-thumb { background: #00ff41; }
